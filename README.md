@@ -1,3 +1,3 @@
 # LINE
 
-A sample command-line application.
+LINE Bot made with Dart.

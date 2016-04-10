@@ -1,7 +1,7 @@
 name: LINE
 version: 0.0.1
 description: A sample command-line application.
-#author: Your Name <email@example.com>
+author: sh4869 <nobuk4869@gmail.com>
 #homepage: https://www.example.com
 
 environment:
